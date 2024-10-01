@@ -10,3 +10,8 @@
 
 - Data base -> Mongodb
 - REST -> gofiber
+
+### Run
+
+- go build -o ../bin/api
+- start .\cmd.exe
